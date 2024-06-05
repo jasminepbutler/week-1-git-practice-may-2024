@@ -15,13 +15,13 @@ A simple HTML page to practice Git and GitHub
 
 - [x] Create Readme
 - [x] Create index.html
-- [ ] Update index.html
-- [ ] Update Readme
+- [x] Update index.html
+- [x] Update Readme
 - [ ] Commit and sync to Github
 
 ## Contact
 
-Author: robert.mccreary@codex.academy
+Author: jasminepbutler@gmail.com
 
 ## Acknowledgements
 
